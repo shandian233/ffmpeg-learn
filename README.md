@@ -12,34 +12,72 @@ avformat_find_stream_info实现。
 
 
 
+![Uploading cbb9c024b5d19495583d64d4af826884.png…]()
+
+
+
+
+
+
+
+
+
+
 
 ## 文件结构
        
 ffmpeg-decode-project/
+
 ├── CMakeLists.txt           # CMake构建配置文件
+
 ├── README.md                # 项目说明文档
+
 ├── src/                     # 源代码目录
+
 │   ├── main.cpp            # 主程序入口
+
 │   ├── decoder.h           # 解码器类头文件
+
 │   └── decoder.cpp         # 解码器类实现
+
 ├── include/                 # 头文件目录
+
 │   └── ffmpeg/             # FFmpeg头文件
+
 ├── lib/                    # 库文件目录
+
 │   ├── avcodec.lib
+
 │   ├── avformat.lib
+
 │   ├── avutil.lib
+
 │   ├── swresample.lib
+
 │   └── swscale.lib
+
 ├── bin/                    # DLL文件目录
+
 │   ├── avcodec-61.dll
+
 │   ├── avformat-61.dll
+
 │   ├── avutil-59.dll
+
 │   ├── swresample-5.dll
+
+
 │   └── swscale-8.dll
+
 └── build/                  # 构建输出目录
+
     ├── bin/
+    
     │   └── Release/       # 生成的可执行文件目录
+    
     └── ...
+
+
 
 decoder.h/cpp:
 功能如下：
