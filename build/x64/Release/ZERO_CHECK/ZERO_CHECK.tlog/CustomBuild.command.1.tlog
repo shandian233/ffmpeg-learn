@@ -1,0 +1,10 @@
+^D:\CODE\XIAOMI\CPP-EXERCISE\DAY09-0619\CLASSWORK\TEST6\FFMPEG-DECODE-PROJECT\BUILD\CMAKEFILES\E5928A7FC882500B3495561F8E799758\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SD:/code/xiaomi/cpp-exercise/Day09-0619/classwork/test6/ffmpeg-decode-project -BD:/code/xiaomi/cpp-exercise/Day09-0619/classwork/test6/ffmpeg-decode-project/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/code/xiaomi/cpp-exercise/Day09-0619/classwork/test6/ffmpeg-decode-project/build/decoder.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

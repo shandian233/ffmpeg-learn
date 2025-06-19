@@ -1,0 +1,3 @@
+D:/code/xiaomi/cpp-exercise/Day09-0619/classwork/test6/ffmpeg-decode-project/build/CMakeFiles/decoder.dir
+D:/code/xiaomi/cpp-exercise/Day09-0619/classwork/test6/ffmpeg-decode-project/build/CMakeFiles/ALL_BUILD.dir
+D:/code/xiaomi/cpp-exercise/Day09-0619/classwork/test6/ffmpeg-decode-project/build/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\code\xiaomi\cpp-exercise\Day09-0619\classwork\test6\ffmpeg-decode-project\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\code\xiaomi\cpp-exercise\Day09-0619\classwork\test6\ffmpeg-decode-project\src\decoder.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\code\xiaomi\cpp-exercise\Day09-0619\classwork\test6\ffmpeg-decode-project\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{48F5155B-F73D-3466-A8CD-DA96698A3EDC}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
