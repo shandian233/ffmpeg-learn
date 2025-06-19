@@ -12,6 +12,17 @@ avformat_find_stream_info实现。
 
 
 
+![Uploading cbb9c024b5d19495583d64d4af826884.png…]()
+
+
+
+
+
+
+
+
+
+
 
 ## 文件结构
        
